@@ -62,10 +62,10 @@ p {
 
 .navbar_di-buffala {
   background-color: #325DFF;
-  color: hsla(0, 100%, 100%, 0.52);
+  color: hsla(0, 81%, 42%, 0.52);
 }
 .icon-bar {
-  background-color: #fff;
+  background-color: #a04088;
 }
 
 .navbar-brand img {
@@ -73,13 +73,13 @@ p {
 }
 
 .navbar-nav > li > a{
-  color: #fff;
+  color: #bd0909;
   text-shadow: none;
   text-transform: uppercase;
 }
 .nav > li > a:hover {
   background-color: initial;
-  color: hsla(0, 0%, 100%, .5);
+  color: hsla(0, 86%, 47%, 0.5);
 }
 
 .navbar {
@@ -99,12 +99,12 @@ p {
 }
 
 .header_di-buffala h1 {
-  color: #fff;
+  color: #da0707;
   font-size: 5em;
 }
 
 .header_di-buffala p {
-  color: hsla(0, 0%, 100%, .8);
+  color: hsla(0, 93%, 47%, 0.8);
   line-height: 22px;
   padding: 1rem 30vw;
 }
@@ -197,7 +197,7 @@ p {
 }
 
 .features__inner-icon {
-  background-color: #325DFF;
+  background-color: #cf20a9;
   border-radius: 50%;
   width: 100px;
   height: 100px;
@@ -206,7 +206,7 @@ p {
 }
 
 .svg-inline--fa  {
-  color: #fff;
+  color: #c94094;
   font-size: 40px;
   position: absolute;
   top: 30px;
@@ -251,7 +251,7 @@ p {
 .video__inner {
   position: absolute;
   top: 60%;
-  color: #fff;
+  color: #b14242;
 }
 
 .video__inner h2 {
@@ -260,7 +260,7 @@ p {
 
 .video__inner p {
   padding: 0 20vw;
-  color: #fff;
+  color: #e64848;
 }
 
 @media only screen and (max-width : 767px) {
